@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi", "TestApi\TestApi.csproj", "{BF8EEB55-15EC-4101-9BC1-C89E882DC7B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cores", "Cores\Cores.csproj", "{49213944-6981-4ADF-92DD-9B9870199D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStore.EF", "DataStore.EF\DataStore.EF.csproj", "{AA1A2C9D-228F-4EE3-BFC0-9C06D56BEACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF8EEB55-15EC-4101-9BC1-C89E882DC7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8EEB55-15EC-4101-9BC1-C89E882DC7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8EEB55-15EC-4101-9BC1-C89E882DC7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8EEB55-15EC-4101-9BC1-C89E882DC7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49213944-6981-4ADF-92DD-9B9870199D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49213944-6981-4ADF-92DD-9B9870199D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49213944-6981-4ADF-92DD-9B9870199D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49213944-6981-4ADF-92DD-9B9870199D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1A2C9D-228F-4EE3-BFC0-9C06D56BEACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1A2C9D-228F-4EE3-BFC0-9C06D56BEACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1A2C9D-228F-4EE3-BFC0-9C06D56BEACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1A2C9D-228F-4EE3-BFC0-9C06D56BEACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A90FF07-ADDB-4FEB-AD97-00F78D3C1B37}
+	EndGlobalSection
+EndGlobal
